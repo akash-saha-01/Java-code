@@ -1,2 +1,2 @@
 # Java-code
-# this is my java code
+# This is my java code
